@@ -10,7 +10,7 @@ loginForm.addEventListener("submit", function(event){
     // قائمة أسماء المستخدمين وكلمات المرور
     const users = {
         // كلمة المرور : اسم المستخدم
-        "LAILA" : "123",
+        "HAFID" : "123",
         "ALI" : "8267",
         "SALIM" : "123",
     }
